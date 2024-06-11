@@ -1,4 +1,6 @@
-# nubit
+# nubit light node 
+
+500 mb ram 40 gb ssd storage
 
 Update VPS and Install Necessary Packages
 
